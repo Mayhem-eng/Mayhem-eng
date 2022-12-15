@@ -44,7 +44,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&te)&nbsp;
 
-![Snake animation](https://github.com/mayhem-eng/mayhem-eng/blob/output/github-contribution-grid-snake.svg) <br>
+![Snake animation](https://github.com/Mayhem-eng/Mayhem-eng/blob/output/github-contribution-grid-snake.svg) <br>
 
 <em>Vivo a arte da tecnologia e do conhecimento, e em prol disso poder algum dia mudar a vida das pessoas ✨</em>
 
