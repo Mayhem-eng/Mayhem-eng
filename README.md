@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=header&&animation=fadeIn&stroke=FF69B4strokeWidth=2&fontColor=C71585"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#888ddaheight=120&section=header&&animation=fadeIn&stroke=FF69B4strokeWidth=2&fontColor=C71585"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Felipe+Eduardo+Garcia;I'm+16+years+old;I+from+at+São+Paulo+SP;I+study+Systems+Devenlopment+at+Etec;Be+Welcome+to+my+portifolio!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=888dda&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Felipe+Eduardo+Garcia;I'm+16+years+old;I+from+at+São+Paulo+SP;I+study+Systems+Devenlopment+at+Etec;Be+Welcome+to+my+portifolio!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mayhem-eng&show_icons=true&count_private=true&hide_border=true&title_color=C71585&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Eduardo Garcia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhem-eng&layout=compact&hide_border=true&title_color=C71585&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mayhem-eng&show_icons=true&count_private=true&hide_border=true&title_color=84407b&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Eduardo Garcia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhem-eng&layout=compact&hide_border=true&title_color=84407b&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">  
@@ -52,4 +52,4 @@
 <em>Vivo a arte da tecnologia e do conhecimento, e em prol disso poder algum dia mudar a vida das pessoas ✨</em>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer&"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#888ddaheight=120&section=footer&"/>
